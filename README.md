@@ -21,7 +21,7 @@
   - [Hashing](#hashing)
   - [Provers and Verifiers](#provers-and-verifiers)
 - [Data Structures](#data-structures)
-- [Text](#text)
+- [Data Type Manipulation](#data-type-manipulation)
 - [Privacy &amp; Security](#privacy--security)
 - [Gaming](#gaming)
 - [Dev Tooling](#dev-tooling)
@@ -34,6 +34,7 @@ outdated or are no longer maintained. Use them at your own risk. Proceed with ca
 additional security measures.
 
 ---
+
 ## Tutorials & Documentation
 
 ### Blog Posts
@@ -138,7 +139,7 @@ additional security measures.
 - [Advanced Merkle Tree Structures](https://github.com/plus3-labs/o1js-merkle) - A library for
   Sparse, Standard and Compact Merkle Tree.
 
-## Text
+## Data Type Manipulation
 
 - [RegEx](https://github.com/Shigoto-dev19/zk-regex-o1js) - A library for provable regular
   expression verification.
