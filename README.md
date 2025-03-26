@@ -56,8 +56,8 @@ additional security measures.
   encryption with multiplicative homomorphism.
 - [RSA](https://github.com/Shigoto-dev19/o1js-rsa/tree/main) - A library for provable RSA65537
   signature verification.
-- [AES](https://github.com/scaraven/mina-aes) - A library for provable AES encryption
-  verification.
+- [AES-128](https://github.com/scaraven/mina-aes) - A library for provable AES-128 encryption
+  verification. 
 
 ### Key Exchange
 
