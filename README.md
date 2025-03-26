@@ -50,13 +50,14 @@ additional security measures.
 ## Cryptography
 
 ### Encryption
-
 - [ChaCha20 Encryption](https://github.com/0x471/o1js-chacha20/tree/main) - A library for provable
   ChaCha20 encryption scheme.
 - [ElGamal Encryption](https://github.com/Trivo25/o1js-elgamal) - A library for provable ElGamal
   encryption with multiplicative homomorphism.
 - [RSA](https://github.com/Shigoto-dev19/o1js-rsa/tree/main) - A library for provable RSA65537
   signature verification.
+- [AES-128](https://github.com/scaraven/mina-aes) - A library for provable AES-128 encryption
+  verification. 
 
 ### Key Exchange
 
