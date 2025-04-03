@@ -118,7 +118,7 @@ additional security measures.
   library for verifying Bitcoin and Nostr (BIP340) signatures.
 - [ECDSA on secp256k1](https://github.com/45930/ethereum-mina-signatures) - A library for verifying
   Ethereum signautures.
-- [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A libary for verifying EdDSA signatures.
+- [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A lirbary for verifying EdDSA signatures.
 
 ### Hashing
 
