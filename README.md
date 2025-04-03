@@ -1,6 +1,6 @@
 <h1 align="center"> awesome-o1js</h1>
 
-![awesome-o1js](https://github.com/user-attachments/assets/b9c8bccc-a1cd-4d9f-80a3-6b11029146a0)
+![awesome-o1js](o1js.jpeg)
 
 **<p align="center">A curated list of libraries, projects and resources for o1js.</p>**
 
