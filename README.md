@@ -46,6 +46,7 @@ additional security measures.
   Blog post series on the use of actions and reducers.
 - [Nullifiers in o1js](https://www.o1labs.org/blog/the-many-saints-of-privacy-nullifiers-in-o1js) -
   A blog post about Nullifiers.
+- [Token accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A blog post about Token Accounts and how to manage state.
 
 ### Tutorials
 
@@ -120,6 +121,8 @@ additional security measures.
 - [ECDSA on secp256k1](https://github.com/45930/ethereum-mina-signatures) - A library for verifying
   Ethereum signautures.
 - [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA signatures.
+- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
+
 
 ### Hashing
 
@@ -184,6 +187,7 @@ additional security measures.
   development with web workers.
 - [Data Packer](https://github.com/45930/o1js-pack) - A library that enables packing extra data into
   a single Field.
+- [Account update visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize account updates a transaction performs.
 
 ## Contributions
 
