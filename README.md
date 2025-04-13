@@ -19,6 +19,7 @@
   - [Key Generation](#key-generation)
   - [Signatures](#signatures)
   - [Hashing](#hashing)
+  - [Authentication](#auth)
   - [Provers and Verifiers](#provers-and-verifiers)
 - [Data Structures](#data-structures)
 - [Data Type Manipulation](#data-type-manipulation)
@@ -126,6 +127,9 @@ additional security measures.
   SHA256 hash function with dynamic-size inputs.
 - [Reinforced Concrete](https://github.com/rymnc/reinforced-concrete-impls/) - A library for
   provable Reinforced Concrete hash function.
+
+### Authentication
+- [HMAC-SHA256](https://github.com/o1-labs-XT/hmac-sha256-o1js) - A library for provable hash-based message authentication code generation.
 
 ### Provers and Verifiers
 
