@@ -123,10 +123,6 @@ additional security measures.
   Ethereum signautures.
 - [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA signatures.
 
-### Authentication
-
-- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
-
 ### Hashing
 
 - [Dynamic SHA256](https://github.com/Shigoto-dev19/o1js-dynamic-sha256) - A library for provable
@@ -136,6 +132,7 @@ additional security measures.
 
 ### Authentication
 - [HMAC-SHA256](https://github.com/o1-labs-XT/hmac-sha256-o1js) - A library for provable hash-based message authentication code generation.
+- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
 
 ### Provers and Verifiers
 
