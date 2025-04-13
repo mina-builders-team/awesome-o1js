@@ -18,6 +18,7 @@
   - [Key Exchange](#key-exchange)
   - [Key Generation](#key-generation)
   - [Signatures](#signatures)
+  - [Authentication](#authentication)
   - [Hashing](#hashing)
   - [Provers and Verifiers](#provers-and-verifiers)
 - [Data Structures](#data-structures)
@@ -120,8 +121,10 @@ additional security measures.
 - [ECDSA on secp256k1](https://github.com/45930/ethereum-mina-signatures) - A library for verifying
   Ethereum signautures.
 - [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA signatures.
-- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
 
+### Authentication
+
+- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
 
 ### Hashing
 
