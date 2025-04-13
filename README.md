@@ -18,6 +18,7 @@
   - [Key Exchange](#key-exchange)
   - [Key Generation](#key-generation)
   - [Signatures](#signatures)
+  - [Authentication](#authentication)
   - [Hashing](#hashing)
   - [Authentication](#authentication)
   - [Provers and Verifiers](#provers-and-verifiers)
@@ -46,6 +47,7 @@ additional security measures.
   Blog post series on the use of actions and reducers.
 - [Nullifiers in o1js](https://www.o1labs.org/blog/the-many-saints-of-privacy-nullifiers-in-o1js) -
   A blog post about Nullifiers.
+- [Token Accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A blog post about Token Accounts and how to manage state.
 
 ### Tutorials
 
@@ -121,6 +123,10 @@ additional security measures.
   Ethereum signautures.
 - [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA signatures.
 
+### Authentication
+
+- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
+
 ### Hashing
 
 - [Dynamic SHA256](https://github.com/Shigoto-dev19/o1js-dynamic-sha256) - A library for provable
@@ -184,6 +190,7 @@ additional security measures.
   development with web workers.
 - [Data Packer](https://github.com/45930/o1js-pack) - A library that enables packing extra data into
   a single Field.
+- [Account Update Visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize account updates a transaction performs.
 
 ## Contributions
 
