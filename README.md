@@ -46,7 +46,7 @@ additional security measures.
   Blog post series on the use of actions and reducers.
 - [Nullifiers in o1js](https://www.o1labs.org/blog/the-many-saints-of-privacy-nullifiers-in-o1js) -
   A blog post about Nullifiers.
-- [Token accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A blog post about Token Accounts and how to manage state.
+- [Token Accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A blog post about Token Accounts and how to manage state.
 
 ### Tutorials
 
@@ -187,7 +187,7 @@ additional security measures.
   development with web workers.
 - [Data Packer](https://github.com/45930/o1js-pack) - A library that enables packing extra data into
   a single Field.
-- [Account update visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize account updates a transaction performs.
+- [Account Update Visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize account updates a transaction performs.
 
 ## Contributions
 
