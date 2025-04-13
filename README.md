@@ -19,7 +19,7 @@
   - [Key Generation](#key-generation)
   - [Signatures](#signatures)
   - [Hashing](#hashing)
-  - [Authentication](#auth)
+  - [Authentication](#authentication)
   - [Provers and Verifiers](#provers-and-verifiers)
 - [Data Structures](#data-structures)
 - [Data Type Manipulation](#data-type-manipulation)
