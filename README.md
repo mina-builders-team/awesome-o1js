@@ -18,7 +18,6 @@
   - [Key Exchange](#key-exchange)
   - [Key Generation](#key-generation)
   - [Signatures](#signatures)
-  - [Authentication](#authentication)
   - [Hashing](#hashing)
   - [Authentication](#authentication)
   - [Provers and Verifiers](#provers-and-verifiers)
@@ -47,7 +46,8 @@ additional security measures.
   Blog post series on the use of actions and reducers.
 - [Nullifiers in o1js](https://www.o1labs.org/blog/the-many-saints-of-privacy-nullifiers-in-o1js) -
   A blog post about Nullifiers.
-- [Token Accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A blog post about Token Accounts and how to manage state.
+- [Token Accounts](https://mackcee.substack.com/p/overcoming-mina-l1s-concurrency-limitations) - A
+  blog post about Token Accounts and how to manage state.
 
 ### Tutorials
 
@@ -120,8 +120,9 @@ additional security measures.
 - [Schnorr Signature Verification on secp256k1](https://github.com/0x471/o1js-schnorr-secp256k1) - A
   library for verifying Bitcoin and Nostr (BIP340) signatures.
 - [ECDSA on secp256k1](https://github.com/45930/ethereum-mina-signatures) - A library for verifying
-  Ethereum signautures.
-- [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA signatures.
+  Ethereum signatures.
+- [EdDSA on Edwards25519](https://github.com/o1-labs-XT/eddsa-o1js) - A library for verifying EdDSA
+  signatures.
 
 ### Hashing
 
@@ -131,8 +132,11 @@ additional security measures.
   provable Reinforced Concrete hash function.
 
 ### Authentication
-- [HMAC-SHA256](https://github.com/o1-labs-XT/hmac-sha256-o1js) - A library for provable hash-based message authentication code generation.
-- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using passkey verification and webauthn integration.
+
+- [HMAC-SHA256](https://github.com/o1-labs-XT/hmac-sha256-o1js) - A library for provable hash-based
+  message authentication code generation.
+- [Passkey/WebAuthn](https://github.com/id-Mask/webauthn-o1js-example) - Example integration using
+  passkey verification and webauthn integration.
 
 ### Provers and Verifiers
 
@@ -168,7 +172,9 @@ additional security measures.
   well as verification based on specific text in the email body.
 - [z2zlib](https://github.com/Yeshilabs/z2zlib/tree/version/0.0.1) - An implementation of provable
   and secure p2p state channels.
-- [Anon Aadhaar in o1js](https://github.com/mina-builders-team/anon-aadhaar-o1js/) - An implementation of the Anon Aadhaar protocol enabling Aadhaar users to generate proofs about their private identity data.
+- [Anon Aadhaar in o1js](https://github.com/mina-builders-team/anon-aadhaar-o1js/) - An
+  implementation of the Anon Aadhaar protocol enabling Aadhaar users to generate proofs about their
+  private identity data.
 
 ## Gaming
 
@@ -188,7 +194,8 @@ additional security measures.
   development with web workers.
 - [Data Packer](https://github.com/45930/o1js-pack) - A library that enables packing extra data into
   a single Field.
-- [Account Update Visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize account updates a transaction performs.
+- [Account Update Visualizer](https://github.com/ronykris/mina-account-update) - A tool to visualize
+  account updates a transaction performs.
 
 ## Contributions
 
