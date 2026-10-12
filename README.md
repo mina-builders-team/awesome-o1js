@@ -164,9 +164,6 @@ additional security measures.
   anonymous credentials using ZK attestations.
 - [RLN(Rate Limiting Nullifiers)](https://github.com/0x471/o1js-rln) - An implementation enabling
   spam prevention in anonymous environments by limiting message rates.
-- [Semaphore](https://github.com/Socialcap-app/semaphore-sdk) - An implementation enabling users to
-  prove group membership (e.g., for votes or endorsements) anonymously without revealing their
-  identity.
 - [zkEmail](https://github.com/zksecurity/mina-attestations/tree/main/src/email) - An implementation
   enabling provable verification of emails to and from specific domains or subsets of domains, as
   well as verification based on specific text in the email body.
