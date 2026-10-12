@@ -51,7 +51,7 @@ additional security measures.
 
 ### Tutorials
 
-- [Onboarding to Mina](https://www.youtube.com/watch?v=bJ6BRvFpyk4&list=PLNwigD3FQvjBvYunrf_v2v7lGSeIOpAkx) -
+- [Onboarding to Mina](https://www.youtube.com/playlist?list=PLNwigD3FQvjBvYunrf_v2v7lGSeIOpAkx) -
   Video tutorial series about o1js zkApp development.
 - [Mina Playground](https://www.minaplayground.com/) - Interactive o1js tutorials.
 
@@ -101,7 +101,7 @@ additional security measures.
   encryption with multiplicative homomorphism.
 - [RSA](https://github.com/Shigoto-dev19/o1js-rsa/tree/main) - A library for provable RSA65537
   signature verification.
-- [AES-128](https://github.com/scaraven/mina-aes) - A library for provable AES-128 encryption
+- [AES-128](https://github.com/Raspberry-Devs/mina-aes) - A library for provable AES-128 encryption
   verification.
 
 ### Key Exchange
@@ -175,8 +175,8 @@ additional security measures.
 
 ## Gaming
 
-- [Paima](https://github.com/PaimaStudios/paima-engine) - A framework for building provable gaming
-  app-chains.
+- [Effectstream (formerly Paima Engine)](https://github.com/effectstream/effectstream) - A framework
+  for building provable gaming app-chains.
 - [ZkNoid](https://github.com/ZkNoid/store) - An SDK for provable game development.
 - [Dice Roll](https://github.com/YofiY/zk-dice-roll) - An implementation of a provable dice roll
   game.
@@ -187,7 +187,7 @@ additional security measures.
 ## Dev Tooling
 
 - [zkApp CLI](https://github.com/o1-labs/zkapp-cli) - A cli for kick-starting o1js zkApp.
-- [Scaffold-Mina](https://github.com/DeMonkeyCoder/scaffold-mina) - A starter kit for o1js zkApps
+- [Scaffold-Mina](https://github.com/wagmina/scaffold-mina) - A starter kit for o1js zkApps
   development with web workers.
 - [Data Packer](https://github.com/45930/o1js-pack) - A library that enables packing extra data into
   a single Field.
@@ -197,4 +197,4 @@ additional security measures.
 ## Contributions
 
 The contribution guidelines can be found
-[here](https://github.com/navigators-exploration-team/awesome-o1js/blob/main/CONTRIBUTING.md).
+[here](https://github.com/mina-builders-team/awesome-o1js/blob/main/CONTRIBUTING.md).
